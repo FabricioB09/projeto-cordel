@@ -65,7 +65,7 @@ section.imagem#img01{
 section.imagem#img02{
     background-image: url('../imagens/background002.jpg');
     background-position: right center;
-    background-size: 100%;
+    background-size: cover;
 }
 section.imagem > p{
     display: inline-block;
